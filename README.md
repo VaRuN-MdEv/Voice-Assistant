@@ -11,3 +11,4 @@ Generative AI: Integrated with Google's GenerativeModel (via the google.generati
 Randomized Responses: Uses Python's random module to introduce variety in responses, providing a more natural conversational experience.
 Efficient Processing: time ensures efficient handling of time-based events and delays when necessary.
 This voice assistant can be easily extended to include additional commands and functionalities. Whether it's for personal use or customer service applications, it can be customized and integrated with various APIs and services.
+The core code for the voice assistant is located in the streamlit_va.py file. It is fully integrated with Streamlit, providing a seamless, interactive web interface for real-time voice interactions. This integration allows users to engage with the assistant directly through a web application, making it easy to deploy and interact with.
