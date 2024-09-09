@@ -1,4 +1,4 @@
-Voice Assistant
+
 This repository contains a fully functional voice assistant built with various Python libraries, designed to provide seamless and intelligent voice interactions. The assistant is capable of recognizing speech, generating responses, and integrating with external services.
 
 Key Features:
